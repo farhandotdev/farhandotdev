@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Farhan
+ <h1>👋 Hi, I’m Farhan</h1>
 - 👀 I’m interested in Web3, AI/ML, Blockchain...
 - 🌱 I’m currently learning web technology
 - 💞️ I’m looking to collaborate with other developers.

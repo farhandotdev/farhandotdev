@@ -27,3 +27,7 @@ he/him developing a Full-stack developer.</h3>
 <div><b>Facts about me:</b></div>
 <div>😄 Pronouns: he/him, they/them</div>
 <div>🌱 Currently learning: Frontend HTML/CSS/JS and C++</div>
+<div>✋ I'm familiar with C, Python, HTML, CSS, JavaScript, Node.js, Git and C++.</div>
+<div>🌟 I'm looking to collaborate with other content creators.</div>
+<div>🎒 CS50 Student.</div>
+<div>📬 How to reach me: @farhandotdev</div>

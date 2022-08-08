@@ -2,9 +2,6 @@
 
 <!-- <img src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/creeper.svg"> -->
 
-<h3>Wàtçh👁️, lëàrñ📚 & Thêñ Dø🥋.
-he/him developing a Full-stack developer.</h3>
-
 <section align="center">
     <h3>Connect with me on:</h3>
     <div>

@@ -1,6 +1,5 @@
 <h1>Hi there, I'm Farhan! 👋</h1>
-
-<!-- <img src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/creeper.svg"> -->
+[![Profile Visits](https://komarev.com/ghpvc/?username=farhandotdev)]
 
 <section align="center">
     <h3>Connect with me on:</h3>
@@ -22,8 +21,8 @@
 </section>
 <p>&nbsp;</p>
 <div><b>Facts about me:</b></div>
-<div>😄 Pronouns: he/him, they/them</div>
-<div>🌱 Currently learning: Frontend HTML/CSS/JS and C++</div>
+<div>😄 Pronouns: he/him</div>
+<div>🌱 Currently learning: Frontend HTML/CSS/JS and C++.</div>
 <div>✋ I'm familiar with C, Python, HTML, CSS, JavaScript, Node.js, Git and C++.</div>
 <div>🌟 I'm looking to collaborate with other content creators.</div>
 <div>🎒 CS50 Student.</div>

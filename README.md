@@ -4,11 +4,11 @@
 <section align="center">
     <h3>Connect with me on:</h3>
     <div>
-        <a href="https://linkedin.com/in/farhandotdev"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/img/linkedin.svg" alt="LinkedIn"></a>
+        <a href="https://linkedin.com/in/farhandotdev"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/linkedin.svg" alt="LinkedIn"></a>
         &nbsp;
-        <a href="mailto://farhanalam.dev@gmail.com"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/img/gmail.svg" alt="Email"></a>
+        <a href="mailto://farhanalam.dev@gmail.com"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/gmail.svg" alt="Email"></a>
         &nbsp;
-        <a href="https://twitter.com/farhandotdev"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/img/twitter.svg" alt="Twitter"></a>
+        <a href="https://twitter.com/farhandotdev"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/twitter.svg" alt="Twitter"></a>
     </div>
 </section>
 

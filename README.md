@@ -1,5 +1,7 @@
 <h1>Hi there, I'm Farhan! 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhandotdev&label=Profile%20views&color=0e75b6&style=flat" alt="farhandotdev" /> </p>
+[![Twitter](https://img.shields.io/twitter/follow/farhandotdev)](https://twitter.com/farhandotdev)
+
 
 <section align="center">
     <h3>Connect with me on:</h3>

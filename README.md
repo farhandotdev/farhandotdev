@@ -22,6 +22,13 @@
         <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=farhandotdev&" alt="farhandotdev's GitHub streak"/>
     </div>
 </section>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,c,python,cpp,html,css,js,react,nodejs,bootstrap,linux,twitter" />
+  </a>
+</p>
 <p>&nbsp;</p>
 <div><b>Facts about me:</b></div>
 <div>😄 Pronouns: he/him</div>

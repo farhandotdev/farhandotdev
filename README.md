@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Farhan! 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhandotdev&label=Profile%20views&color=0e75b6&style=flat" alt="farhandotdev" /></p>
-<p align="right"> <a href="https://twitter.com/farhandotdev" target="blank"><img src="https://img.shields.io/twitter/follow/farhandotdev?logo=twitter&style=for-the-badge" alt="farhandotdev" /></a> </p>
+<p > <a href="https://twitter.com/farhandotdev" target="blank"><img src="https://img.shields.io/twitter/follow/farhandotdev?logo=twitter&style=for-the-badge" alt="farhandotdev" /></a> </p>
 
 
 <section align="center">

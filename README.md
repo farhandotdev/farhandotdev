@@ -4,6 +4,7 @@
 
 
 <section align="center">
+    <h3 align="left">Wàtçh, lëàrñ & Thêñ Dø.</h2>
     <h3>Connect with me on:</h3>
     <div>
         <a href="https://linkedin.com/in/farhandotdev"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/linkedin.svg" alt="LinkedIn"></a>

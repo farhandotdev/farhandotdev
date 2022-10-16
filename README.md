@@ -12,6 +12,8 @@
         &nbsp;
         <a href="https://twitter.com/farhandotdev"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/twitter.svg" alt="Twitter"></a>
         &nbsp;
+        <a href="mailto://farhanalam.dev@gmail.com"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/telegram2.png" alt="Email"></a>
+        &nbsp;
         <a href="https://instagram.com/farhandotdev"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/instagram.png" alt="Instagram"></a>
     </div>
 </section>

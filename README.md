@@ -6,15 +6,15 @@
 <section align="center">
     <h3>Connect with me on:</h3>
     <div>
-        <a href="https://linkedin.com/in/farhandotdev"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/linkedin.svg" alt="LinkedIn"></a>
+        <a href="https://linkedin.com/in/farhandotdev"><img width="30px" height="30px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
         &nbsp;
-        <a href="mailto://farhanalam.dev@gmail.com"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/gmail.svg" alt="Email"></a>
+        <a href="mailto://farhanalam.dev@gmail.com"><img width="30px" height="30px" src="https://skillicons.dev/icons?i=google" alt="Email"></a>
         &nbsp;
-        <a href="https://twitter.com/farhandotdev"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/twitter.svg" alt="Twitter"></a>
+        <a href="https://twitter.com/farhandotdev"><img width="30px" height="30px" src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
         &nbsp;
-        <a href="https://t.me/farhandotdev"><img width="30px" height="30px" bg="white" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/telegram3.svg" alt="Telegram"></a>
+        <a href="https://t.me/farhandotdev"><img width="30px" height="30px" bg="white" src="https://skillicons.dev/icons?i=telegram" alt="Telegram"></a>
         &nbsp;
-        <a href="https://instagram.com/farhandotdev"><img width="30px" height="30px" src="https://raw.githubusercontent.com/farhandotdev/farhandotdev/main/instagram.png" alt="Instagram"></a>
+        <a href="https://instagram.com/farhandotdev"><img width="30px" height="30px" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
     </div>
 </section>
 

@@ -3,7 +3,7 @@
 
 <p > <a href="https://twitter.com/farhandotdev" target="blank"><img src="https://img.shields.io/twitter/follow/farhandotdev?logo=twitter&style=for-the-badge" alt="farhandotdev" /></a> </p>
 
-<div align="center"><h3><i>I'm a self-taught Web Developer, Flutter Developer and Open-Source contributor who loves getting involved in developer communities.</i></h3></div>
+<div align="center"><h3><i>I'm a self-taught Web Developer, Flutter Developer, and Open-Source contributor who loves getting involved in developer communities.</i></h3></div>
 <section align="center">
     <h3>Connect with me on:</h3>
     <div>

@@ -1,6 +1,5 @@
 <h1>Hi there, I'm Farhan Alam! 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhandotdev&label=Profile%20views&color=0e75b6&style=flat" alt="farhandotdev" /></p>
-
 <div align="center"><h3><i>I'm a self-taught Web Developer, Flutter Developer, and Open-Source contributor who loves getting involved in developer communities.</i></h3></div>
 <section align="center">
     <h3>Connect with me on:</h3>

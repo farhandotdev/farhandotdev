@@ -37,4 +37,4 @@
 <div>✋ I'm familiar with C, HTML, CSS, JavaScript, React, Node.js, Git&Github and C++.</div>
 <div>🌟 I'm looking to collaborate with other Developers. </div>
 <div>🎒 CS50 Student.</div>
-<div>📬 How to reach me: @farhandotdev</div>
+<div>📬 How to reach me: @buildwithfarhan</div>

@@ -6,11 +6,7 @@
     <div>
         <a href="https://linkedin.com/in/farhandotdev"><img width="30px" height="30px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
         &nbsp;
-        <a href="mailto://farhanalam.dev@gmail.com"><img width="30px" height="30px" src="https://skillicons.dev/icons?i=google" alt="Email"></a>
-        &nbsp;
         <a href="https://twitter.com/buildwithfarhan"><img width="30px" height="30px" src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
-        &nbsp;
-        <a href="https://t.me/farhandotdev"><img width="30px" height="30px" bg="white" src="https://skillicons.dev/icons?i=telegram" alt="Telegram"></a>
         &nbsp;
         <a href="https://instagram.com/buildwithfarhan"><img width="30px" height="30px" src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
     </div>

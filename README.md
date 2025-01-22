@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/buildwithfarhan" target="blank"><img src="https://img.shields.io/twitter/follow/buildwithfarhan?logo=twitter&style=for-the-badge" alt="buildwithfarhan" /></a> </p>
 
-- 🔭 I’m currently working on **Ionic project**
+- 🔭 I’m currently working on **Flutter & Ionic project**
 
 - 🌱 I’m currently learning **Ionic, Vue and Rive**
 
